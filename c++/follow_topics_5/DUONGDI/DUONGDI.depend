@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520167343 source:e:\pmhtc\duongdi\duongdi.cpp
+	<stdio.h>
+	<vector>
+	<queue>
+
