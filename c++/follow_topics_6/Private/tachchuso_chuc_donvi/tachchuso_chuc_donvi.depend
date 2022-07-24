@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470155275 source:e:\pmhtc\tachchuso_chuc_donvi\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

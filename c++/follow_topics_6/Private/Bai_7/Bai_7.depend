@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469715044 source:e:\pmhtc\bai_7\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

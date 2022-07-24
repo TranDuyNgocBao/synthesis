@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474211181 source:e:\pmhtc\crazy computer\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
+1474213984 source:e:\pmhtc\mat khau may tinh\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

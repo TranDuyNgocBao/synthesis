@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1469953998 source:e:\pmhtc\tongs_le\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
