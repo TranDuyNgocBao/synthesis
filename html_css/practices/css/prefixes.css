@@ -1,0 +1,28 @@
+section{
+	width: 100%;
+
+	/*Tell how many column you want*/
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	-o-column-count: 3;
+	column-count: 3;
+
+	/* Tell how many spaces between those column*/
+	-webkit-column-gap: 15px;
+	-moz-column-gap: 15px;
+	-o-column-gap: 15px;
+	column-gap: 15px;
+
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-o-border-radius: 25px;
+	border-radius: 25px;
+
+	padding: 3px;
+
+	background: #00b7ea;
+	background: -webkit-linear-gradient(#00b7ea 0%, #D2E4E8 100%);
+	background: -moz-linear-gradient(#00b7ea 0%, #D2E4E8 100%);
+	background: -o-linear-gradient(#00b7ea 0%, #D2E4E8 100%);
+	background: linear-gradient(#00b7ea 0%, #D2E4E8 100%);
+}

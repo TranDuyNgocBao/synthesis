@@ -1,0 +1,27 @@
+nav a{
+	text-align: center;
+	color: #FFFFFF;
+	background: #0000FF;
+	display: inline-block;
+	width: 20%;
+	margin-right: 2%;
+}
+
+.current{
+	color: #000000;
+	background: #0FFF00;
+	text-transform: uppercase;
+}
+
+/* star * applies styling to every element on the page*/
+
+/*Attribute Selectors: a[href='info.html']*/
+
+/*
+^: match the beginning exactly
+	a[href^='http://umich']
+$ : match the end exactly
+	img[src$='.png']
+* : wildcard
+	a[href*='umich']
+*/

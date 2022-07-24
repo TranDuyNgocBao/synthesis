@@ -1,0 +1,29 @@
+header{
+  background-color: #C0C0C0;
+}
+h1{
+  color: #FFFFFF;  
+  text-align: center;
+  text-transform: uppercase;
+  font-family: none;
+  font-size: default;
+}
+a{
+  color: #000000;
+  background-color: #D3D3D3;
+}
+h2{
+  color: #00008B;
+  text-transform: uppercase;
+  font-family: none;
+}
+section{
+  background-color: #A9A9A9;
+}
+img{
+  display: none;
+}
+p{
+  color: #000000;
+  font-family: none;
+}

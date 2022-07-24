@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Useful Tags</title>
+	<link rel="icon" type="image/png" href="tools.png">
+</head>
+<body>
+	<a href="#blocktags">Block tags</a><br>
+	<a href="#inlinetags">Inline tags</a><br>
+	<a href="#moretags">Tags that need "more"</a><br>
+
+	<div id="blocktags">
+		<h1><u><mark><span style="color: blue;">Block tags</span></mark></u></h1>
+
+		<h2>hr</h2>
+			<p>The &lt;hr&gt; element used to stand for "horizontal line" and that is still how it is typically displayed by browsers. Howerver, in HTML5 the tag took on a semantic meaning, "semantic break". I will be using it often to break up example files when I want to display multiple tags in one file.</p>
+			<hr>
+
+		<h2>address</h2>
+			<p>The &lt;address&gt; element indicates that the text is an address specific to the page, perhaps contact information for the author.</p>
+			<address>123 Dak Lak</address><address>EahLeo</address>
+			<hr>
+
+		<h2>blockquote</h2>
+			<p>The &lt;blockquote&gt; element is used for extended quotations. It should include the cite attribute in order to show or link to the source of the quote.</p>
+			<blockquote>"Bao is handsome." My love</blockquote>
+			<hr>
+
+		<h2>details</h2>
+			<p>The &lt;details&gt; element is used in conjunction with the &lt;summary&gt; tag. It is one of the tags that was created in response to the repeated use of scripting to open and close content. It is not supported by all of the browsers yet though.</p>
+			<details>
+				<summary>The Summary...</summary>
+				<p>Bao is handsome.</p>
+			</details>
+			<hr>
+	</div>
+
+	<div id="inlinetags">
+		<h1><u><mark><span style="color: blue;">Inline tags</span></mark></u></h1>
+		<p><span style="color: red;">Why do we bother with inline elements?</span> There are certainly times we want to mark up content, but we don't want to insert the line breaks around them. The &lt;span&gt; tag was the first to give you that ability, but it was mostly used to style the code, and we don't want to do that. Some of the newer tags that stills separate content and style are listed below. Remember, inline tags can flow next to each other and don't cause a line break before and after the element. We have seen thi with links and images.</p>
+
+		<h2>Citing a source - cite</h2>
+			<p>The &lt;cite&gt; makes it much easier for people and bots to search the code for this specific information.<br>A great reference for my brothers is <cite><a href="https://www.pexels.com/search/beautiful%20girl/">https://www.pexels.com/search/beautiful%20girl/</a></cite></p>
+			<hr>
+
+		<h2>Defining your abbreviations - abbr</h2>
+			<p>The &lt;abbr&gt; will display an abbreviation on the browser. But if a title attribute is specified in the tag, the title will appear when the mouse hovers over the abbreviation. Screen readers also provide the title information.<br>The days of the week are often abbreviated: <abbr title="Sunday">Sun</abbr>, <abbr title="Monday">Mon</abbr>, <abbr title="Tuesday">Tues</abbr>,etc</p><hr>
+
+		<h2>Specifying the use of time - time</h2>
+			<p>The &lt;time&gt; is again a completely semantic tag that can be used to search for specific information.<br>The party starts at <time datetime="21:00">9:00pm</time>.<br>The party took place one <time datetime="New Year's Eve">New Year's Eve</time>.</p><hr>
+
+		<h2>Identifying code fragments - code</h2>
+			<p>The &lt;code&gt; element tends to be displayed in a different font, but also has the semantic meaning to convey information to as many people as possible.<br>I have been trying to learn how to write html but my <code>img</code> elements never seem to work.</p><hr>
+
+		<h2>Using subscripts and superscripts - sub and sup</h2>
+			<p>The &lt;sub&gt; and &lt;sup&gt; elements are used to create the super and subscripts.<br><i>e.g.</i> (x+y)<sup>3</sup> or H<sub>2</sub>O.<br>In the past, people would often paste mathematical images into the page. But images didn't convey the same meaning to all users.</p><hr>
+	</div>
+
+	<div id="moretags">
+		<h1><u><mark><span style="color: blue;">Tags that need "more"</span></mark></u></h1>
+
+		<h2>button</h2>
+			<p>Here is an example of the button tag. It is a little bit misleading since it is a button that doesn't do anything. You would want to add some interactivity, perhaps with <b>JavaScript</b>.</p>
+			<button>Open</button><br>
+			<button>Close</button>
+			<hr>
+
+		<h2>meter</h2>
+			<p>The meter tag is cool and can take a lot of attribute. But again it is better if you have some code that make the attribute values dynamic instead of "hardcoding" them. When you think meter, think of a final score for a test.</p>
+			<meter min="0" max="100" value="50">50%</meter><br>
+			<meter min="0" max="1" value=".25">25%</meter><br>
+			<meter min="5" max="10" value="8">60%</meter><br>
+			<hr>
+
+		<h2>progress</h2>
+			<p>The progress tag has a very similar layout to the meter tag. The difference is that there is an assumption that there will be a progression to where the value will equall 100. This tag is often used when filling out a form that has many pages of questions.</p>
+			<progress value="70" max="100">70%</progress>
+			<hr>
+
+		<h2>iframe</h2>
+			<p>The iframe is used to nest content. It is not supported equally well by all browsers. You will wnat to explore setting many of the different options such as height and width.</p>
+			<iframe src="https://laodong.vn/photo/nhung-buc-anh-trai-dat-dep-nghet-tho-chup-tu-ve-tinh-khong-gian-985518.ldo"></iframe><br>
+			<p>You can set the heigth and width to something greater</p>
+			<iframe src="https://laodong.vn/photo/nhung-buc-anh-trai-dat-dep-nghet-tho-chup-tu-ve-tinh-khong-gian-985518.ldo" width="1200px" height="400px%"></iframe><br>
+			<hr>
+
+		<h2>bdo</h2>
+			<p>bdo stands for bidirectional override. This tag can be used to change the direction of the text.</p>
+			<p>This text will go left to right.<br><bdo dir="rtl">This text will go right to left.</bdo> (right to left)</p><hr>
+	</div>
+</body>
+</html>

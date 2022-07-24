@@ -1,0 +1,25 @@
+span{
+	height: 50px;
+	width: 75px;
+	background: #00ff00;
+	display: block;
+	/*display:  Try block and inline block; OR none*/
+	/*float*/
+	float: right;
+}
+
+div{
+	height: 100px;
+	width: 25%; /* try 25%, 35%, 45%*/
+	background: #00ffff;
+	display: ;
+	float: left;
+	/*display: inline-block;*/
+}
+
+p{
+	background: #ff00ff;
+	width: 200px;
+	height: 100px;
+	clear: both;
+}
