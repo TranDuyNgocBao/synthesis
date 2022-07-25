@@ -7,9 +7,9 @@
 * Web demo with Flask:  
    * Download source code [**Web-app**](https://github.com/TranDuyNgocBao/synthesis/tree/main/Projects/SRGAN/deploy_website) and run `app.py`
 ## :bricks: **SRGAN architecture**
-Original paper: [Photo-Realistic Single Image Super-
+* Original paper: [Photo-Realistic Single Image Super-
 Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802?context=cs).
-Code interference: [Using SRGAN in keras](https://github.com/bnsreenu/python_for_microscopists)
+* Code interference: [Using SRGAN in keras](https://github.com/bnsreenu/python_for_microscopists)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83662223/179677280-874d1f3f-bb72-4efe-8012-6075bb0b8cac.jpeg" width="70%" height="70%">
