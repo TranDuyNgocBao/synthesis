@@ -59,15 +59,15 @@ weight_path = 'weight/e_77.h5' # You can change the path
 ```
 ## :sun_with_face: **Result**
 <div align="center">
-   <img src="result/comic.png" width="40%" height="40%">
-   <img src="result/butterfly.png" width="50%" height="50%">
+   <img src="model_training/result/comic.png" width="40%" height="40%">
+   <img src="model_training/result/butterfly.png" width="50%" height="50%">
 </div>
 <p align="center">
     <strong>Figure 2:</strong> Set14 and Set5 dataset
 </p>
 
 <div align="center">
-   <img src="result/urban.png" width="70%" height="70%">
+   <img src="model_training/result/urban.png" width="70%" height="70%">
 </div>
 <p align="center">
     <strong>Figure 4:</strong> Urban dataset
