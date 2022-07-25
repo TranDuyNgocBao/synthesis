@@ -5,10 +5,11 @@
     * [Tran Nguyen Phuc Vinh](https://github.com/Lasky0908)
 * Our report: [PDF](https://drive.google.com/file/d/1E4LMsEhZwS747aOu_rLXSmuXMrnNJH_h/view?usp=sharing)
 * Web demo with Flask:  
-   * Download source code [**Web-app**](https://github.com/LamKser/image-super-resolution-web-app) and run `app.py`
+   * Download source code [**Web-app**](https://github.com/TranDuyNgocBao/synthesis/tree/main/Projects/SRGAN/deploy_website) and run `app.py`
 ## :bricks: **SRGAN architecture**
 Original paper: [Photo-Realistic Single Image Super-
 Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802?context=cs).
+Code interference: [Using SRGAN in keras](https://github.com/bnsreenu/python_for_microscopists)
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83662223/179677280-874d1f3f-bb72-4efe-8012-6075bb0b8cac.jpeg" width="70%" height="70%">
