@@ -1,0 +1,11 @@
+Name: Apple-Watch
+Name: Apple-Iphone
+Name: Microsoft-Office
+Name: Microsoft-Computer
+Name: Microsoft-Windows-Ln0234
+Name: Microsoft-Inkie
+Name: Microsoft-Windie-KLwer2
+Name: Apple-Earings-Un789
+Name: Google-Image
+Name: Google-Scholar-KLwer2
+Name: IBM-Software-IBMCC

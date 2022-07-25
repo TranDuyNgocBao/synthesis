@@ -1,0 +1,59 @@
+Name: Kirk
+Course: English
+Grade: 99
+
+Name: Kirk
+Course: History
+Grade: 23
+
+Name: Crack
+Course: English
+Grade: 44
+
+Name: Kirk
+Course: Math
+Grade: 56
+
+Name: Crack
+Course: History
+Grade: 10
+
+Name: Lewinsky
+Course: English
+Grade: 86
+
+Name: Lewinsky
+Course: History
+Grade: 78
+
+Name: Crack
+Course: Math
+Grade: 67
+
+Name: BoB
+Course: English
+Grade: 100
+
+Name: Bee
+Course: English
+Grade: 34
+
+Name: Lewinsky
+Course: Math
+Grade: 45
+
+Name: Peter
+Course: English
+Grade: 50
+
+Name: BoB
+Course: History
+Grade: 100
+
+Name: Mary
+Course: History
+Grade: 95
+
+Name: BoB
+Course: Math
+Grade: 100

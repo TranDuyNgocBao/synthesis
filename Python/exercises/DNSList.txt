@@ -1,0 +1,74 @@
+IP Address: 185.30.211.154: 81	
+Location: France
+Status: valid	
+Reliability: 81%
+
+IP Address: 82.127.173.122l: 32
+Location: France	
+Status: valid	
+Reliability: 32%
+
+IP Address: 195.98.79.117: 74
+Location: Russian 
+Status: valid
+Reliability: 74%
+
+IP Address: 91.121.143.182: 80
+Location: France
+Status: valid
+Reliability: 80%
+
+IP Address: 84.96.26.139: 33
+Location: France
+Status: valid	
+Reliability: 33%
+
+IP Address: 213.184.225.37: 55
+Location: United Kingdom	
+Status: valid
+Reliability: 55%
+
+IP Address: 200.148.191.197: 92
+Location: Brazil 
+Status: valid
+Reliability: 92%
+
+IP Address: 107.191.48.176: 99
+Location: United States
+Status: valid
+Reliability: 99%
+
+IP Address: 169.53.182.120: 99
+Location: United States
+Status: valid
+Reliability: 99%
+
+IP Address: 109.228.14.251: 52
+Location: United Kingdom
+Status: valid	
+Reliability: 52%
+
+IP Address: 223.31.121.171: 99
+Location: India
+Status: valid 
+Reliability: 99%
+
+IP Address: 212.83.168.230: 48
+Location: France
+Status: valid
+Reliability: 48%
+
+IP Address: 46.105.214.115: 31
+Location: France
+Status: valid
+Reliability: 31%
+
+IP Address: 79.175.208.28: 85
+Location: Poland
+Status: valid
+Reliability: 85%
+
+IP Address: 213.171.217.148: 99
+Location: United Kingdom	
+Status: valid	
+Reliability: 99%
